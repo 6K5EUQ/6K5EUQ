@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm 6K5EUQ 👋
 
-<!--
-**6K5EUQ/6K5EUQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate | Former Intelligence Analyst**
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.S. in Computer Science
+- 🛰️ Ex-DIA Tech ELINT Analyst (Jul. 2022 – Feb. 2025)
+- 📡 Ex-SCRM Satellite Monitoring Assistant (Jul. 2025 – Nov. 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [BE_WE](https://github.com/6K5EUQ/BE_WE) &nbsp;|&nbsp; [bewe.co.kr](https://bewe.co.kr)
+
+> **Hear everything. Know everything.**
+
+Real-time multi-operator SDR platform — one SDR streams live spectrum to multiple operators over TCP. Collaborative waterfall, demodulation, Time Machine IQ rewind, 3D globe station discovery.
+
+`C++17` `OpenGL` `ImGui` `BladeRF` `RTL-SDR` `FFTW` `ALSA`
+
+## Also Working On
+- 🌐 [Im-Lab](https://github.com/6K5EUQ/Im-Lab) — Research lab management platform
+
+## Tech Stack
+`Python` `C/C++` `TypeScript` `Next.js` `GNU Radio` `Supabase`
+
+---
+
+*"Turning invisible signals into actionable intelligence."*
