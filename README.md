@@ -1,11 +1,9 @@
 # Hi, I'm 6K5EUQ 👋
 
-**Computer Science Undergraduate | Former Intelligence Analyst**
-
 ## About Me
 - 🎓 B.S. in Computer Science
-- 🛰️ Ex-DIA Tech ELINT Analyst (Jul. 2022 – Feb. 2025)
-- 📡 Ex-SCRM Satellite Monitoring Assistant (Jul. 2025 – Nov. 2025)
+- 🛰️ Ex-Technical ELINT Analyst, Defense Intelligence Agency (ROK) (Jul. 2022 – Feb. 2025)
+- 📡 Ex-Satellite Monitoring Assistant, Satellite Radio Monitoring Center, Ministry of Science and ICT (MSIT) (Jul. 2025 – Nov. 2025)
 
 ## Featured Project
 
