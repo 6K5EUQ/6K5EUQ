@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 B.S. in Computer Science
 - 🛰️ Ex-Technical ELINT Analyst, Defense Intelligence Agency (ROK) (Jul. 2022 – Feb. 2025)
-- 📡 Ex-Satellite Monitoring Assistant, Satellite Radio Monitoring Center, Ministry of Science and ICT (MSIT) (Jul. 2025 – Nov. 2025)
+- 📡 Ex-Satellite Monitoring Assistant, Satellite Radio Monitoring Center, Ministry of Science and ICT (Jul. 2025 – Nov. 2025)
 
 ## Featured Project
 
