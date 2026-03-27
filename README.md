@@ -13,13 +13,11 @@
 
 Real-time multi-operator SDR platform — one SDR streams live spectrum to multiple operators over TCP. Collaborative waterfall, demodulation, Time Machine IQ rewind, 3D globe station discovery.
 
-`C++17` `OpenGL` `ImGui` `BladeRF` `RTL-SDR` `FFTW` `ALSA`
+`C++17` `BladeRF` `RTL-SDR` `FFTW`
 
-## Also Working On
-- 🌐 [Im-Lab](https://github.com/6K5EUQ/Im-Lab) — Research lab management platform
 
 ## Tech Stack
-`Python` `C/C++` `TypeScript` `Next.js` `GNU Radio` `Supabase`
+`C++` `GNU Radio` `Software-Defined-Radio`
 
 ---
 
