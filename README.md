@@ -9,7 +9,7 @@
 
 ### [BE_WE](https://github.com/6K5EUQ/BE_WE) &nbsp;|&nbsp; [bewe.co.kr](https://bewe.co.kr)
 
-> **Hear everything. Know everything.**
+> **BEHIND EVERYONE WE HEAR EVERYTHING.**
 
 Real-time multi-operator SDR platform — one SDR streams live spectrum to multiple operators over TCP. Collaborative waterfall, demodulation, Time Machine IQ rewind, 3D globe station discovery.
 
@@ -17,8 +17,5 @@ Real-time multi-operator SDR platform — one SDR streams live spectrum to multi
 
 
 ## Tech Stack
-`C++` `GNU Radio` `Software-Defined-Radio`
+`C++` `Software-Defined-Radio`
 
----
-
-*"Turning invisible signals into actionable intelligence."*
