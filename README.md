@@ -10,8 +10,7 @@
 - 🔬 Digital Signal Processing — FFT, demodulation, spectral analysis, window functions
 - 🛡️ SIGINT / ELINT — emitter identification, RF fingerprinting
 - 🌐 Distributed real-time systems — low-latency streaming, relay architecture
-- 🐧 Linux systems programming — ALSA, raw sockets, headless embedded (Raspberry Pi)
-- 
+
 ## What I'm Building
 
 ### [BE_WE](https://github.com/6K5EUQ/BE_WE) &nbsp;|&nbsp; [bewe.co.kr](https://bewe.co.kr)
