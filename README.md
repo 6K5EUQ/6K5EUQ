@@ -17,11 +17,4 @@
 
 > **BEHIND EVERYONE WE HEAR EVERYTHING.**
 
-Real-time multi-operator SDR platform — one SDR streams live spectrum to multiple operators over TCP. Collaborative waterfall, demodulation, Time Machine IQ rewind, 3D globe station discovery.
-
-`C++17` `BladeRF` `RTL-SDR` `FFTW`
-
-
-## Tech Stack
-`C++` `Software-Defined-Radio`
-
+Real-time multi-operator SDR platform
