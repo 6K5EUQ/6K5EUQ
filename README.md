@@ -17,4 +17,4 @@
 
 > **BEHIND EVERYONE WE HEAR EVERYTHING.**
 
-Real-time multi-operator SDR platform
+Real-time multi-operator SIGINT platform
