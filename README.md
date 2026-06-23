@@ -4,6 +4,7 @@
 - 🎓 B.S. in Computer Science
 - 🛰️ Ex-Technical ELINT Analyst, Defense Security Agency, 777th Command (Jul. 2022 – Feb. 2025)
 - 📡 Ex-Satellite Monitoring Assistant, Satellite Radio Monitoring Center, Ministry of Science and ICT (Jul. 2025 – Sep. 2025)
+- 🏢 Founder, SHADE (April 2026 – Present)
 
 ## Interests
 - 📻 Software-Defined Radio & RF signal processing
