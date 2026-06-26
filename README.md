@@ -18,4 +18,4 @@
 
 > **BEHIND EVERYONE WE HEAR EVERYTHING.**
 
-Real-time multi-operator SIGINT platform
+Real-time multi-operator powerful SIGINT platform
