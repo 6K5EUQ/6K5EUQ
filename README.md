@@ -14,8 +14,9 @@
 
 ## What I'm Building
 
-### [BE_WE](https://github.com/6K5EUQ/BE_WE) &nbsp;|&nbsp; [bewe.co.kr](https://bewe.co.kr)
+### [BE_WE](https://github.com/6K5EUQ/BE_WE) 
 
 > **BEHIND EVERYONE WE HEAR EVERYTHING.**
 
-Real-time multi-operator powerful SIGINT platform
+Real-time Multi-Domain SIGINT Platform
+Ground • UAV • Satellite
