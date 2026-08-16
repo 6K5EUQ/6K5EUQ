@@ -20,4 +20,4 @@
 
 Real-time Multi-Domain SIGINT Platform
 
-Ground • UAV • Satellite
+Ground • Airborne • Spaceborne
