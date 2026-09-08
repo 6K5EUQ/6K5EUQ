@@ -1,3 +1,5 @@
+![VTOL flight test](docs/images/00-flight.jpg)
+
 # Hi, I'm 6K5EUQ 👋
 
 ## About Me
