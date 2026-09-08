@@ -1,18 +1,5 @@
-![VTOL flight test](docs/images/00-flight.jpg)
-
 # Hi, I'm 6K5EUQ 👋
-
-## About Me
-- 🎓 B.S. in Computer Science
-- 🛰️ Ex-Technical ELINT Analyst, Defense Security Agency, 777th Command (Jul. 2022 – Feb. 2025)
-- 📡 Ex-Satellite Monitoring Assistant, Satellite Radio Monitoring Center, Ministry of Science and ICT (Jul. 2025 – Sep. 2025)
-- 🏢 Founder, SHADE (Apr. 2026 – Present)
-
-## Interests
-- 📻 Software-Defined Radio & RF signal processing
-- 🔬 Digital Signal Processing — FFT, demodulation, spectral analysis, window functions
-- 🛡️ SIGINT / ELINT — emitter identification, RF fingerprinting
-- 🌐 Distributed real-time systems — low-latency streaming, relay architecture
+![VTOL flight test](docs/images/00-flight.jpg)
 
 ## What I'm Building
 
