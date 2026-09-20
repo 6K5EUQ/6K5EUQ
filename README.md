@@ -1,5 +1,3 @@
-![VTOL flight test](docs/images/00-flight.jpg)
-
 ## What I'm Building
 
 ## [BEWE](https://github.com/6K5EUQ/BEWE) 
