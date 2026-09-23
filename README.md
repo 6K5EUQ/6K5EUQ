@@ -17,10 +17,12 @@ I enjoy pulling structure out of raw IQ, and testing against the real thing: rea
 
 ## Stack
 
-![SDR](https://img.shields.io/badge/SDR-6A1B9A)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-2E3440)
+![SDR](https://img.shields.io/badge/SDR-6A1B9A)
+![SIGINT](https://img.shields.io/badge/SIGINT-B71C1C)
+![ELINT](https://img.shields.io/badge/ELINT-E65100)
 
 ## Elsewhere
 
