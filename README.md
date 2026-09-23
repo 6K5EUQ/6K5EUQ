@@ -1,8 +1,8 @@
 # Junseo Park
 
-Founder of SHADE. I build signal intelligence systems end to end: SDR collection nodes, the fusion server, the analyst screen, and the unmanned aircraft that carry the sensors. They run in real time on low-cost COTS hardware, unattended and without outside networks.
+I build signal intelligence systems end to end: SDR collection nodes, the fusion server, the analyst screen, and the unmanned aircraft that carry the sensors. They run in real time on low-cost COTS hardware, unattended and without outside networks.
 
-Background: B.S. in Computer Science. Technical ELINT Analyst, Defense Security Agency, 777th Command (2022 – 2025), then Satellite Monitoring Assistant, Ministry of Science and ICT (2025). Founded SHADE in 2026.
+Background: B.S. in Computer Science. Technical ELINT Analyst, Defense Security Agency, 777th Command (2022 – 2025), then Satellite Monitoring Assistant, Ministry of Science and ICT (2025).
 
 I enjoy pulling structure out of raw IQ, and testing against the real thing: real flight firmware in simulation, on-site calibration, every flight log analyzed.
 
@@ -23,7 +23,3 @@ I enjoy pulling structure out of raw IQ, and testing against the real thing: rea
 ![SDR](https://img.shields.io/badge/SDR-6A1B9A)
 ![SIGINT](https://img.shields.io/badge/SIGINT-B71C1C)
 ![ELINT](https://img.shields.io/badge/ELINT-E65100)
-
-## Elsewhere
-
-[shade-signals.com](https://shade-signals.com)
