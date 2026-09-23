@@ -2,8 +2,6 @@
 
 I build signal intelligence systems end to end: SDR collection nodes, the fusion server, the analyst screen, and the unmanned aircraft that carry the sensors. They run in real time on low-cost COTS hardware, unattended and without outside networks.
 
-Background: B.S. in Computer Science. Technical ELINT Analyst, Defense Security Agency, 777th Command (2022 – 2025), then Satellite Monitoring Assistant, Ministry of Science and ICT (2025).
-
 I enjoy pulling structure out of raw IQ, and testing against the real thing: real flight firmware in simulation, on-site calibration, every flight log analyzed.
 
 ## Projects
